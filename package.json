@@ -1,0 +1,30 @@
+{
+  "name": "react-360-photo",
+  "version": "0.0.1",
+  "description": "Unstable React 360 Photo viewer",
+  "main": "app.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHBelsky/glorious-to-view.git"
+  },
+  "author": "Shea H Belsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SHBelsky/glorious-to-view/issues"
+  },
+  "homepage": "https://github.com/SHBelsky/glorious-to-view#readme",
+  "dependencies": {
+    "d3": "^4.9.1",
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-scripts": "1.0.10",
+    "react-three-renderer": "^3.1.0",
+    "three": "0.84.0"
+  }
+}

@@ -1,2 +1,2 @@
 # glorious-to-view
-Photo blog of Cornell University. Coming soon.
+Unstable React 360 Photo viewer.
